@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\bin\Debug\PhonixTools.exe.config
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\bin\Debug\PhonixTools.exe
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\bin\Debug\PhonixTools.pdb
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\bin\Debug\RestSharp.dll
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\obj\Debug\PhonixTools.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\obj\Debug\PhonixTools.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\obj\Debug\PhonixTools.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\obj\Debug\PhonixTools.csproj.CopyComplete
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\obj\Debug\PhonixTools.exe
+C:\Users\Windows\source\repos\PhonixTools\PhonixTools\obj\Debug\PhonixTools.pdb
